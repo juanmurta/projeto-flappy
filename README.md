@@ -24,4 +24,4 @@ Este projeto é uma recriação do clássico jogo **Flappy Bird**, desenvolvido 
 4. Faça push para o branch.  
 5. Abra um Pull Request.  
 
-Para mais detalhes sobre como contribuir, veja a [documentação oficial do GitHub sobre Pull Requests](https://docs.github.com/pt/pull  
+Para mais detalhes sobre como contribuir, veja a [documentação oficial do GitHub sobre Pull Requests](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests).
